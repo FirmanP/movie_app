@@ -1,0 +1,66 @@
+{
+    "adult": false,
+    "backdrop_path": "/gNPWlhUXhyWiHv9qxr57tvT0WwS.jpg",
+    "first_air_date": "2014-10-07",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "http://www.cwtv.com/shows/the-flash/",
+    "id": 60735,
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2023-05-24",
+    "name": "The Flash",
+    "networks": [
+        {
+            "id": 71,
+            "logo_path": "/ge9hzeaU7nMtQ4PjkFlc68dGAJ9.png",
+            "name": "The CW",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 184,
+    "number_of_seasons": 9,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Flash",
+    "overview": "overview",
+    "popularity": 974.777,
+    "poster_path": "/rg8N7x27Ef6PvlIiioLStf9ZaIO.jpg",
+    "seasons": [
+        {
+            "air_date": "2016-04-19",
+            "episode_count": 9,
+            "id": 79954,
+            "name": "Specials",
+            "overview": "overview",
+            "poster_path": "/ft8pUr3qX41kOux5eqrwf02yAxZ.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2014-10-07",
+            "episode_count": 23,
+            "id": 60523,
+            "name": "Season 1",
+            "overview": "overview",
+            "poster_path": "/A3H6pewHfoy2bXmNhvycOe0xzlC.jpg",
+            "season_number": 1
+        }
+    ],
+    "status": "Ended",
+    "tagline": "The fastest man alive.",
+    "type": "Scripted",
+    "vote_average": 7.797,
+    "vote_count": 10436
+}
