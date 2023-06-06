@@ -5,7 +5,7 @@ import 'package:ditonton/data/models/tv_model.dart';
 import 'package:ditonton/data/models/tv_response.dart';
 import 'package:ditonton/common/exception.dart';
 import 'package:http/http.dart' as http;
-import 'package:http/io_client.dart' as ioc;
+// import 'package:http/io_client.dart' as ioc;
 
 import '../../common/utils.dart';
 
