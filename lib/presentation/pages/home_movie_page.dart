@@ -12,6 +12,7 @@ import 'package:ditonton/presentation/pages/top_rated_movies_page.dart';
 import 'package:ditonton/presentation/pages/top_rated_tvs_page.dart';
 import 'package:ditonton/presentation/pages/tv_detail_page.dart';
 import 'package:ditonton/presentation/pages/watchlist_movies_page.dart';
+import 'package:firebase_crashlytics/firebase_crashlytics.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
@@ -94,6 +95,15 @@ class _HomeMoviePageState extends State<HomeMoviePage> {
       ),
       appBar: AppBar(
         title: Text('Ditonton'),
+        actions: [
+          IconButton(
+            onPressed: () {
+              FirebaseCrashlytics.instance.crash();
+              // Navigator.pushNamed(context, SEARCH_ROUTE);
+            },
+            icon: Icon(Icons.search),
+          )
+        ],
       ),
       body: Padding(
         padding: const EdgeInsets.all(8.0),

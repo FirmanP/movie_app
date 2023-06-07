@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "529715404420",
+    "project_id": "movie-and-tv-series-app",
+    "storage_bucket": "movie-and-tv-series-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529715404420:android:eccfc03edfa4b47bf12cd1",
+        "android_client_info": {
+          "package_name": "com.dicoding.ditonton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529715404420-7sshlrifdisulffpdq359d0a450d0aqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2uV8kAp0QsA3Lt9PK63SqH2iMU9oPwUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529715404420-7sshlrifdisulffpdq359d0a450d0aqu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "529715404420-4bdajjg5hlbmdr9f4od0341uji7lt3dl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dicoding.ditonton"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
